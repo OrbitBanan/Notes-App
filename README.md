@@ -1,1 +1,1 @@
-# Simple Note-taking App on TypeScript
+# netlify link: https://notes-taking-typescript-app.netlify.app/
